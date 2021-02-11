@@ -27,7 +27,7 @@
     },
     "dependencies": {
         "@tinymce/tinymce-vue": "^3.0.1",
-        "apexcharts": "^3.11.0",
+        "apexcharts": "^3.24.0",
         "chart.js": "^2.9.3",
         "tiptap": "^1.26.6",
         "vue-chartkick": "^0.6.0",
